@@ -7,10 +7,10 @@
 ```javascript
 const Juhunnm = {
   pronouns: "Man",
-  code: [Javascript, HTML, CSS, C],
-  tools: [React, Reactnative, Node, MongoDB,Sql],
+  Tech Stack: [Javascript,React, HTML, CSS, C],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  learning: [Reactnative]
+  i will:[Java,MongoDB,...]
 }
 ```
 
