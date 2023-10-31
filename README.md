@@ -5,7 +5,7 @@
 ```javascript
 const Juhunnm = {
   pronouns: "Man",
-  Tech Stack: [Javascript,React, HTML, CSS, C],
+  Tech Stack: [Javascript,React, HTML, CSS, C,Qgis],
 
   learning: [Reactnative]
   i will:[Java,MongoDB,...]
