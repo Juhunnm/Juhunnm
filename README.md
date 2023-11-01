@@ -7,7 +7,7 @@ const Juhunnm = {
   pronouns: "Man",
   Tech Stack: [Javascript,React, HTML, CSS, C,Qgis],
 
-  learning: [Reactnative]
+  learning: [Reactnative,Qgis]
   i will:[Java,MongoDB,...]
   My Dream : [FrontEnDeveloper]
 }
