@@ -12,5 +12,6 @@ const Juhunnm = {
   My Dream : [FrontEnDeveloper]
 }
 ```
+![juhunnm's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhunnm&show_icons=true&theme=radical)
 
 ---
