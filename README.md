@@ -19,11 +19,11 @@
 <p></p>
 
 ***Tool***&nbsp;
-<img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-white?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
 <p></p>
 
-***DevOps***&nbsp;　
-<img src="https://img.shields.io/badge/github-white?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>
+***DevOps***&nbsp;
+<img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=181717"/>
 <p></p>
 
 </br>
