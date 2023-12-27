@@ -1,4 +1,4 @@
-<h2> Hi, I'm Juhunnm <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Juhunnm <img src="https://media.giphy.com/media/DyCLQGlXX3wuZ3j9GR/giphy.gif" width="50"></h2>
 
 <div align="center">
   
