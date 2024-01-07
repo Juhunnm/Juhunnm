@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 ***BackEnd***&nbsp;
- ???
+<img src="https://img.shields.io/badge/Mysql-white?style=flat-square&logo=Mysql&logoColor=4479A1"/>
  
 ***DataBase***&nbsp;
 <img src="https://img.shields.io/badge/Firebase-white?style=flat-square&logo=firebase&logoColor=FFCA28"/>
