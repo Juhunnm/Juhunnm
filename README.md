@@ -12,11 +12,11 @@
 <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 ***BackEnd***&nbsp;
-<img src="https://img.shields.io/badge/NodeJs-61DAFB?style=flat-square&logo=nodejs&logoColor=black"/>
+<img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
  
 ***DataBase***&nbsp;
 <img src="https://img.shields.io/badge/Firebase-white?style=flat-square&logo=firebase&logoColor=FFCA28"/>
-<img src="https://img.shields.io/badge/MySql-white?style=flat-square&logo=Mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <p></p>
 
 ***Tool***&nbsp;
