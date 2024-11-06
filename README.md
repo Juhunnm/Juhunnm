@@ -13,6 +13,7 @@
 
 ***BackEnd***&nbsp;
 <img src="https://img.shields.io/badge/node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
  
 ***DataBase***&nbsp;
 <img src="https://img.shields.io/badge/Firebase-white?style=flat-square&logo=firebase&logoColor=FFCA28"/>
