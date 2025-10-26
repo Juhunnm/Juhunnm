@@ -1,5 +1,8 @@
-Juhunnm
-
+<div align='center'>
+Juhunnm  
+  <br/>
+<img src="https://media.giphy.com/media/DyCLQGlXX3wuZ3j9GR/giphy.gif" width="80"/>
+</div>
 <div align="center">
 
   <h2>Tech Stack</h2>
