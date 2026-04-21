@@ -4,9 +4,6 @@ Juhunnm
 <img src="https://media.giphy.com/media/DyCLQGlXX3wuZ3j9GR/giphy.gif" width="80"/>
 </div>
 <div align="center">
-
-  <h2>Tech Stack</h2>
-
   <!-- Frontend -->
   <br><br>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" /><br>
